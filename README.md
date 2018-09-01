@@ -7,11 +7,15 @@
 	
   1개월 : 30만원  1년 : 300만원
 	
-  Contact :  www.setalab.com help@setalab.com 
-  오로라를 이용한 로라 기술 교육 동영상: 
-    https://youtu.be/MoPm72SUUzI 
-    https://youtu.be/bTfFbvgL5HY
+  Contact :  www.setalab.com help@setalab.com
+ 
+  오로라를 이용한 로라 기술 교육 동영상:
+ 
+    https://youtu.be/MoPm72SUUzI
+ 
+     https://youtu.be/bTfFbvgL5HY
   
+
 
 AuLoRa 1.2 버전 업데이트 2018.7.12
 1. data가 200개가 넘을 경우 heap 오류 수정  
