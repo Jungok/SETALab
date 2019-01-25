@@ -16,6 +16,16 @@
      https://youtu.be/bTfFbvgL5HY
   
 
+AuLoRa 1.2.1 버전 업데이트 2018. 12. 11
+ Freq Set/Get 하기 
+ Tx Power level 0~ 14 Set 하기
+ rssi, snr 값 가져오기
+CFList 0일때 초기화 안되는 문제
+port = 0 일때는 nwkskey로 암호화
+Real App key 초기화 안되는 문제 수정
+여러 단말에서 보낸 데이터로 인해 Down 메시지 전송 안되는 문제 
+
+-----------------------------------------------
 
 AuLoRa 1.2 버전 업데이트 2018.7.12
 1. data가 200개가 넘을 경우 heap 오류 수정  
